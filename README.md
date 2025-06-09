@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rayssa Carla</h1>
-<h3 align="justify">I hold a Bachelor's degree in Information Systems and a postgraduate degree in Front-end Development. My academic background and professional experience have equipped me with a strong foundation in design thinking, web accessibility, and agile methodologies, enabling me to develop intuitive, functional, and visually compelling interfaces. </h3>
-<h3 align="justify">Proficient in tools such as Figma, I specialize in translating concepts into accessible, user-centered design solutions. I thrive in multidisciplinary team environments, maintaining a consistent focus on delivering high-quality outcomes that align with both user needs and business objectives. </h3>
-<h3 align="justify">Committed to continuous improvement and driven by new challenges, I consider myself a versatile and adaptable professional, prepared to contribute meaningfully to the evolution of every project I engage with.</h3>
+<img width="1834" alt="top" src="https://github.com/user-attachments/assets/861d3c07-ff6e-4404-9c59-fc08c5df86c3" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayssaalegria&label=Profile%20views&color=0e75b6&style=flat" alt="rayssaalegria" /> </p>
 
@@ -9,7 +7,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [https://rayssaalegria.myportfolio.com/](https://rayssaalegria.myportfolio.com/)
+- 👨‍💻 All of my projects are available at [Rayssa's Portfolio](https://rayssaalegria.com.br/)
 
 - 📝 My Behance [https://www.behance.net/rayssaalegria](https://www.behance.net/rayssaalegria)
 
